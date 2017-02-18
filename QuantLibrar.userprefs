@@ -1,0 +1,30 @@
+﻿<Properties StartupItem="CSharpForFinancialMarkets/CSharpForFinancialMarkets.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CSharpForFinancialMarkets/OptionFactory/IOptionFactory.cs">
+    <Files>
+      <File FileName="CSharpForFinancialMarkets/OptionExtensions.cs" Line="15" Column="40" />
+      <File FileName="CSharpForFinancialMarkets/BS/BlackScholesClosedForm.cs" Line="5" Column="49" />
+      <File FileName="CSharpForFinancialMarkets/OptionFactory/IOptionFactory.cs" Line="15" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CSharpForFinancialMarkets" expanded="True">
+            <Node name="CSharpForFinancialMarkets" expanded="True">
+              <Node name="BS" expanded="True" />
+              <Node name="FDM" expanded="True" />
+              <Node name="OptionFactory" expanded="True">
+                <Node name="IOptionFactory.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.CSharpForFinancialMarkets PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

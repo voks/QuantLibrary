@@ -1,0 +1,6 @@
+/Users/Jesper/Projects/CSharpForFinancialMarkets/CSharpForFinancialMarkets/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Jesper/Projects/CSharpForFinancialMarkets/CSharpForFinancialMarkets/bin/Debug/MathNet.Numerics.dll
+/Users/Jesper/Projects/CSharpForFinancialMarkets/CSharpForFinancialMarkets/bin/Debug/CSharpForFinancialMarkets.exe.mdb
+/Users/Jesper/Projects/CSharpForFinancialMarkets/CSharpForFinancialMarkets/bin/Debug/CSharpForFinancialMarkets.exe
+/Users/Jesper/Projects/CSharpForFinancialMarkets/CSharpForFinancialMarkets/obj/x86/Debug/CSharpForFinancialMarkets.exe
+/Users/Jesper/Projects/CSharpForFinancialMarkets/CSharpForFinancialMarkets/obj/x86/Debug/CSharpForFinancialMarkets.exe.mdb

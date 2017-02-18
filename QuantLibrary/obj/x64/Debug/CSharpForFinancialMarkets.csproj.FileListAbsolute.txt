@@ -1,0 +1,9 @@
+C:\Users\Nina\Documents\GitHub\CSharpForFinancialMarkets\CSharpForFinancialMarkets\bin\x64\Debug\CSharpForFinancialMarkets.exe
+C:\Users\Nina\Documents\GitHub\CSharpForFinancialMarkets\CSharpForFinancialMarkets\bin\x64\Debug\CSharpForFinancialMarkets.pdb
+C:\Users\Nina\Documents\GitHub\CSharpForFinancialMarkets\CSharpForFinancialMarkets\bin\x64\Debug\MathNet.Numerics.dll
+C:\Users\Nina\Documents\GitHub\CSharpForFinancialMarkets\CSharpForFinancialMarkets\bin\x64\Debug\NQuantLib.dll
+C:\Users\Nina\Documents\GitHub\CSharpForFinancialMarkets\CSharpForFinancialMarkets\bin\x64\Debug\QLNet.dll
+C:\Users\Nina\Documents\GitHub\CSharpForFinancialMarkets\CSharpForFinancialMarkets\bin\x64\Debug\MathNet.Numerics.xml
+C:\Users\Nina\Documents\GitHub\CSharpForFinancialMarkets\CSharpForFinancialMarkets\obj\x64\Debug\CSharpForFinancialMarkets.csprojResolveAssemblyReference.cache
+C:\Users\Nina\Documents\GitHub\CSharpForFinancialMarkets\CSharpForFinancialMarkets\obj\x64\Debug\CSharpForFinancialMarkets.exe
+C:\Users\Nina\Documents\GitHub\CSharpForFinancialMarkets\CSharpForFinancialMarkets\obj\x64\Debug\CSharpForFinancialMarkets.pdb
